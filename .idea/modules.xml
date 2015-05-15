@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitPositions/BitPositions.iml" filepath="$PROJECT_DIR$/BitPositions/BitPositions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplesOfANumber/MultiplesOfANumber.iml" filepath="$PROJECT_DIR$/MultiplesOfANumber/MultiplesOfANumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimePalindrome/PrimePalindrome.iml" filepath="$PROJECT_DIR$/PrimePalindrome/PrimePalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseWords/ReverseWords.iml" filepath="$PROJECT_DIR$/ReverseWords/ReverseWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" filepath="$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" />
+    </modules>
+  </component>
+</project>
