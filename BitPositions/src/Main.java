@@ -18,20 +18,13 @@ public class Main
         {
             line = line.trim();
             params = line.split(",");
-            System.out.println(getMinMultiple(Integer.valueOf(params[0]),Integer.valueOf(params[1])));
+            System.out.println(areBitsTheSame(Integer.valueOf(params[0]), Integer.valueOf(params[1]), Integer.valueOf(params[2])));
         }
     }
-    private static int getMinMultiple(int x, int n)
+    private static boolean areBitsTheSame(int n, int p1,int p2)
     {
-        int res=n;
-        int multiplier = 2;
 
-        while (res<x)
-        {
-            res=n*multiplier;
-            multiplier++;
-        }
-        return res;
+        return ((n>>>(p1-1)&1)==(n>>>(p2-1)&1));
     }
 
 }

@@ -2,12 +2,34 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArmstrongNumbers/ArmstrongNumbers.iml" filepath="$PROJECT_DIR$/ArmstrongNumbers/ArmstrongNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeautifulStrings/BeautifulStrings.iml" filepath="$PROJECT_DIR$/BeautifulStrings/BeautifulStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/BitPositions/BitPositions.iml" filepath="$PROJECT_DIR$/BitPositions/BitPositions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CapitalizeWords/CapitalizeWords.iml" filepath="$PROJECT_DIR$/CapitalizeWords/CapitalizeWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" filepath="$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileSize/FileSize.iml" filepath="$PROJECT_DIR$/FileSize/FileSize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindAWriter/FindAWriter.iml" filepath="$PROJECT_DIR$/FindAWriter/FindAWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyNumbers/HappyNumbers.iml" filepath="$PROJECT_DIR$/HappyNumbers/HappyNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HexToDecimal/HexToDecimal.iml" filepath="$PROJECT_DIR$/HexToDecimal/HexToDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lowercase/Lowercase.iml" filepath="$PROJECT_DIR$/Lowercase/Lowercase.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiplesOfANumber/MultiplesOfANumber.iml" filepath="$PROJECT_DIR$/MultiplesOfANumber/MultiplesOfANumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplicationTables/MultiplicationTables.iml" filepath="$PROJECT_DIR$/MultiplicationTables/MultiplicationTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NmodM/NmodM.iml" filepath="$PROJECT_DIR$/NmodM/NmodM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OddNumbers/OddNumbers.iml" filepath="$PROJECT_DIR$/OddNumbers/OddNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PenultimateWord/PenultimateWord.iml" filepath="$PROJECT_DIR$/PenultimateWord/PenultimateWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimePalindrome/PrimePalindrome.iml" filepath="$PROJECT_DIR$/PrimePalindrome/PrimePalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueryBoard/QueryBoard.iml" filepath="$PROJECT_DIR$/QueryBoard/QueryBoard.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseWords/ReverseWords.iml" filepath="$PROJECT_DIR$/ReverseWords/ReverseWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RightmostChar/RightmostChar.iml" filepath="$PROJECT_DIR$/RightmostChar/RightmostChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelfDescribingNumber/SelfDescribingNumber.iml" filepath="$PROJECT_DIR$/SelfDescribingNumber/SelfDescribingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetIntersection/SetIntersection.iml" filepath="$PROJECT_DIR$/SetIntersection/SetIntersection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleSorting/SimpleSorting.iml" filepath="$PROJECT_DIR$/SimpleSorting/SimpleSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfDigits/SumOfDigits.iml" filepath="$PROJECT_DIR$/SumOfDigits/SumOfDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfIntegersFromFile/SumOfIntegersFromFile.iml" filepath="$PROJECT_DIR$/SumOfIntegersFromFile/SumOfIntegersFromFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" filepath="$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwapCase/SwapCase.iml" filepath="$PROJECT_DIR$/SwapCase/SwapCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniqueElements/UniqueElements.iml" filepath="$PROJECT_DIR$/UniqueElements/UniqueElements.iml" />
     </modules>
   </component>
 </project>
