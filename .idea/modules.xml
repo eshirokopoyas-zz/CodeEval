@@ -7,12 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/BitPositions/BitPositions.iml" filepath="$PROJECT_DIR$/BitPositions/BitPositions.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculateDistance/CalculateDistance.iml" filepath="$PROJECT_DIR$/CalculateDistance/CalculateDistance.iml" />
       <module fileurl="file://$PROJECT_DIR$/CapitalizeWords/CapitalizeWords.iml" filepath="$PROJECT_DIR$/CapitalizeWords/CapitalizeWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" filepath="$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileSize/FileSize.iml" filepath="$PROJECT_DIR$/FileSize/FileSize.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindAWriter/FindAWriter.iml" filepath="$PROJECT_DIR$/FindAWriter/FindAWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/HappyNumbers/HappyNumbers.iml" filepath="$PROJECT_DIR$/HappyNumbers/HappyNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/HexToDecimal/HexToDecimal.iml" filepath="$PROJECT_DIR$/HexToDecimal/HexToDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSOMMenuIDs/JSOMMenuIDs.iml" filepath="$PROJECT_DIR$/JSOMMenuIDs/JSOMMenuIDs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lowercase/Lowercase.iml" filepath="$PROJECT_DIR$/Lowercase/Lowercase.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiplesOfANumber/MultiplesOfANumber.iml" filepath="$PROJECT_DIR$/MultiplesOfANumber/MultiplesOfANumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiplicationTables/MultiplicationTables.iml" filepath="$PROJECT_DIR$/MultiplicationTables/MultiplicationTables.iml" />
