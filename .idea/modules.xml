@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArmstrongNumbers/ArmstrongNumbers.iml" filepath="$PROJECT_DIR$/ArmstrongNumbers/ArmstrongNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeautifulStrings/BeautifulStrings.iml" filepath="$PROJECT_DIR$/BeautifulStrings/BeautifulStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/BitPositions/BitPositions.iml" filepath="$PROJECT_DIR$/BitPositions/BitPositions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculateDistance/CalculateDistance.iml" filepath="$PROJECT_DIR$/CalculateDistance/CalculateDistance.iml" />
       <module fileurl="file://$PROJECT_DIR$/CapitalizeWords/CapitalizeWords.iml" filepath="$PROJECT_DIR$/CapitalizeWords/CapitalizeWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" filepath="$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileSize/FileSize.iml" filepath="$PROJECT_DIR$/FileSize/FileSize.iml" />
