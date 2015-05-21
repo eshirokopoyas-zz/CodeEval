@@ -14,21 +14,21 @@ public class Main
         File file = new File(args[0]);
         BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
         String line;
-        String[] params;
         stringBuilder=new StringBuilder();
         while ((line = bufferedReader.readLine()) != null)
         {
-            params=line.split("\\|");
-            System.out.println(getEncodedWriter(params[0], params[1].trim(), stringBuilder));
+            System.out.println(capitalizeWords(stringBuilder.append(line)));
             stringBuilder.setLength(0);
         }
     }
-    private static StringBuilder getEncodedWriter(String dict, String key,StringBuilder res)
+    private static StringBuilder capitalizeWords(StringBuilder line)
     {
-        for (String item:key.split(" "))
+        line.replace(0,1,line.substring(0,1).toUpperCase());
+        int index=0;
+        while ((index=line.indexOf(" ",index))!=-1)
         {
-            res.append(dict.charAt(Integer.valueOf(item)-1));
+            line.replace(++index, index+1, line.substring(index,index+1).toUpperCase());
         }
-        return res;
+        return line;
     }
 }

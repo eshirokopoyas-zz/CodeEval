@@ -4,31 +4,31 @@ import java.io.FileReader;
 import java.io.IOException;
 
 /**
- * Created by eshirokopoyas on 21.05.2015.
+ * Created by eshirokopoyas on 20.05.2015.
  */
 public class Main
 {
-    public static StringBuilder stringBuilder;
     public static void main(String[] args) throws IOException
     {
         File file = new File(args[0]);
         BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
         String line;
         String[] params;
-        stringBuilder=new StringBuilder();
         while ((line = bufferedReader.readLine()) != null)
         {
-            params=line.split("\\|");
-            System.out.println(getEncodedWriter(params[0], params[1].trim(), stringBuilder));
-            stringBuilder.setLength(0);
+            System.out.println(isArmstrongNumber(line));
         }
     }
-    private static StringBuilder getEncodedWriter(String dict, String key,StringBuilder res)
+    private static String isArmstrongNumber(String number)
     {
-        for (String item:key.split(" "))
+        String res;
+        int sum=0;
+        char[] digits = number.toCharArray();
+        for (int i=0;i<digits.length;i++)
         {
-            res.append(dict.charAt(Integer.valueOf(item)-1));
+            sum+=Math.pow(digits[i] - '0', digits.length);
         }
+        res=sum==Integer.valueOf(number)?"True":"False";
         return res;
     }
 }
