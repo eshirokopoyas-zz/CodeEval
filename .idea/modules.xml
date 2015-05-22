@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/HexToDecimal/HexToDecimal.iml" filepath="$PROJECT_DIR$/HexToDecimal/HexToDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/JSOMMenuIDs/JSOMMenuIDs.iml" filepath="$PROJECT_DIR$/JSOMMenuIDs/JSOMMenuIDs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lowercase/Lowercase.iml" filepath="$PROJECT_DIR$/Lowercase/Lowercase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LowestUniqueNumber/LowestUniqueNumber.iml" filepath="$PROJECT_DIR$/LowestUniqueNumber/LowestUniqueNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiplesOfANumber/MultiplesOfANumber.iml" filepath="$PROJECT_DIR$/MultiplesOfANumber/MultiplesOfANumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiplicationTables/MultiplicationTables.iml" filepath="$PROJECT_DIR$/MultiplicationTables/MultiplicationTables.iml" />
       <module fileurl="file://$PROJECT_DIR$/NmodM/NmodM.iml" filepath="$PROJECT_DIR$/NmodM/NmodM.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/QueryBoard/QueryBoard.iml" filepath="$PROJECT_DIR$/QueryBoard/QueryBoard.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseWords/ReverseWords.iml" filepath="$PROJECT_DIR$/ReverseWords/ReverseWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/RightmostChar/RightmostChar.iml" filepath="$PROJECT_DIR$/RightmostChar/RightmostChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RomanNumerals/RomanNumerals.iml" filepath="$PROJECT_DIR$/RomanNumerals/RomanNumerals.iml" />
       <module fileurl="file://$PROJECT_DIR$/SelfDescribingNumber/SelfDescribingNumber.iml" filepath="$PROJECT_DIR$/SelfDescribingNumber/SelfDescribingNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetIntersection/SetIntersection.iml" filepath="$PROJECT_DIR$/SetIntersection/SetIntersection.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleSorting/SimpleSorting.iml" filepath="$PROJECT_DIR$/SimpleSorting/SimpleSorting.iml" />
@@ -33,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" filepath="$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwapCase/SwapCase.iml" filepath="$PROJECT_DIR$/SwapCase/SwapCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniqueElements/UniqueElements.iml" filepath="$PROJECT_DIR$/UniqueElements/UniqueElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordToDigit/WordToDigit.iml" filepath="$PROJECT_DIR$/WordToDigit/WordToDigit.iml" />
     </modules>
   </component>
 </project>
