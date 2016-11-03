@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/BitPositions/BitPositions.iml" filepath="$PROJECT_DIR$/BitPositions/BitPositions.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculateDistance/CalculateDistance.iml" filepath="$PROJECT_DIR$/CalculateDistance/CalculateDistance.iml" />
       <module fileurl="file://$PROJECT_DIR$/CapitalizeWords/CapitalizeWords.iml" filepath="$PROJECT_DIR$/CapitalizeWords/CapitalizeWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeEval.iml" filepath="$PROJECT_DIR$/CodeEval.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" filepath="$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileSize/FileSize.iml" filepath="$PROJECT_DIR$/FileSize/FileSize.iml" />
@@ -38,10 +39,10 @@
       <module fileurl="file://$PROJECT_DIR$/SumOfDigits/SumOfDigits.iml" filepath="$PROJECT_DIR$/SumOfDigits/SumOfDigits.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfIntegersFromFile/SumOfIntegersFromFile.iml" filepath="$PROJECT_DIR$/SumOfIntegersFromFile/SumOfIntegersFromFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" filepath="$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SwapCase/SwapCase.iml" filepath="$PROJECT_DIR$/SwapCase/SwapCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwapElements/SwapElements.iml" filepath="$PROJECT_DIR$/SwapElements/SwapElements.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniqueElements/UniqueElements.iml" filepath="$PROJECT_DIR$/UniqueElements/UniqueElements.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordToDigit/WordToDigit.iml" filepath="$PROJECT_DIR$/WordToDigit/WordToDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkingExperience/WorkingExperience.iml" filepath="$PROJECT_DIR$/WorkingExperience/WorkingExperience.iml" />
     </modules>
   </component>
 </project>
