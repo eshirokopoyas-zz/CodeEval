@@ -46,6 +46,7 @@
       <module fileurl="file://$PROJECT_DIR$/SumOfIntegersFromFile/SumOfIntegersFromFile.iml" filepath="$PROJECT_DIR$/SumOfIntegersFromFile/SumOfIntegersFromFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" filepath="$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwapElements/SwapElements.iml" filepath="$PROJECT_DIR$/SwapElements/SwapElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniqueElements/UniqueElements.iml" filepath="$PROJECT_DIR$/UniqueElements/UniqueElements.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordToDigit/WordToDigit.iml" filepath="$PROJECT_DIR$/WordToDigit/WordToDigit.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkingExperience/WorkingExperience.iml" filepath="$PROJECT_DIR$/WorkingExperience/WorkingExperience.iml" />
