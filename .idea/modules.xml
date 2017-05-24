@@ -37,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/SelfDescribingNumber/SelfDescribingNumber.iml" filepath="$PROJECT_DIR$/SelfDescribingNumber/SelfDescribingNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetIntersection/SetIntersection.iml" filepath="$PROJECT_DIR$/SetIntersection/SetIntersection.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShortestRepetition/ShortestRepetition.iml" filepath="$PROJECT_DIR$/ShortestRepetition/ShortestRepetition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleOrTrump/SimpleOrTrump.iml" filepath="$PROJECT_DIR$/SimpleOrTrump/SimpleOrTrump.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleSorting/SimpleSorting.iml" filepath="$PROJECT_DIR$/SimpleSorting/SimpleSorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfDigits/SumOfDigits.iml" filepath="$PROJECT_DIR$/SumOfDigits/SumOfDigits.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfIntegersFromFile/SumOfIntegersFromFile.iml" filepath="$PROJECT_DIR$/SumOfIntegersFromFile/SumOfIntegersFromFile.iml" />
