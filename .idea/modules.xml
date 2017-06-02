@@ -49,6 +49,7 @@
       <module fileurl="file://$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" filepath="$PROJECT_DIR$/SumOfPrimes/SumOfPrimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwapElements/SwapElements.iml" filepath="$PROJECT_DIR$/SwapElements/SwapElements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeToEat/TimeToEat.iml" filepath="$PROJECT_DIR$/TimeToEat/TimeToEat.iml" />
       <module fileurl="file://$PROJECT_DIR$/TrickOrTreat/TrickOrTreat.iml" filepath="$PROJECT_DIR$/TrickOrTreat/TrickOrTreat.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniqueElements/UniqueElements.iml" filepath="$PROJECT_DIR$/UniqueElements/UniqueElements.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordToDigit/WordToDigit.iml" filepath="$PROJECT_DIR$/WordToDigit/WordToDigit.iml" />
